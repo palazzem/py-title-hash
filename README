@@ -1,0 +1,10 @@
+Title hash calculator with git
+
+Usage:
+  hash_calculator.py [--version] [--help] <title>
+
+Options:
+  -h --help               See this help message and exit
+  -v --version            See builder version and exit
+
+This is a title hash calculator to print pretty SHA1 link for my blog
